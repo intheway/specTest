@@ -1,0 +1,4 @@
+specTest
+========
+
+test for cocoapods
