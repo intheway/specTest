@@ -17,6 +17,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     //fork update by junzhan 7.29
+    //fork update by junzhan 2
     return YES;
 }
 
