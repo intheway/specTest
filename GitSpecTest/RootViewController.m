@@ -30,6 +30,7 @@
 	self.title=@"nihao";
 	//update2
 	//update3 by intheway
+	//update4 by intheway
 }
 
 - (void)didReceiveMemoryWarning
