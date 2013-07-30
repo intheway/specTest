@@ -32,6 +32,7 @@
 	//update3 by intheway
 	//update4 by intheway
 	//update1 by junzhan
+	//update5 by intehway
 }
 
 - (void)didReceiveMemoryWarning
