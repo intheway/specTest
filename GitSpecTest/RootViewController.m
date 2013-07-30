@@ -28,6 +28,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view.
 	self.title=@"nihao";
+	//update2
 }
 
 - (void)didReceiveMemoryWarning
